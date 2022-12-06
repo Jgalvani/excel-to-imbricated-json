@@ -4,7 +4,7 @@ Transform an excel file into an imbricated json file matching references with pa
 ## INSTALLATION
 
 ### Python
-Download and install python3.9 from https://www.python.org/downloads/.
+Download and install python3.11 from https://www.python.org/downloads/.
 
 ### Pipenv
 After python installation, run in your terminal:
